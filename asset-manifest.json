@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wellhealth/static/css/main.e5f31291.chunk.css",
-    "main.js": "/wellhealth/static/js/main.5b4ab6fb.chunk.js",
-    "main.js.map": "/wellhealth/static/js/main.5b4ab6fb.chunk.js.map",
+    "main.js": "/wellhealth/static/js/main.9a7c5f4c.chunk.js",
+    "main.js.map": "/wellhealth/static/js/main.9a7c5f4c.chunk.js.map",
     "runtime-main.js": "/wellhealth/static/js/runtime-main.79d577d5.js",
     "runtime-main.js.map": "/wellhealth/static/js/runtime-main.79d577d5.js.map",
     "static/js/2.595c933c.chunk.js": "/wellhealth/static/js/2.595c933c.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.79d577d5.js",
     "static/js/2.595c933c.chunk.js",
     "static/css/main.e5f31291.chunk.css",
-    "static/js/main.5b4ab6fb.chunk.js"
+    "static/js/main.9a7c5f4c.chunk.js"
   ]
 }
