@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wellhealth/static/css/main.60769b40.chunk.css",
-    "main.js": "/wellhealth/static/js/main.719d520c.chunk.js",
-    "main.js.map": "/wellhealth/static/js/main.719d520c.chunk.js.map",
+    "main.css": "/wellhealth/static/css/main.a07be8f6.chunk.css",
+    "main.js": "/wellhealth/static/js/main.2bbd6fce.chunk.js",
+    "main.js.map": "/wellhealth/static/js/main.2bbd6fce.chunk.js.map",
     "runtime-main.js": "/wellhealth/static/js/runtime-main.79d577d5.js",
     "runtime-main.js.map": "/wellhealth/static/js/runtime-main.79d577d5.js.map",
     "static/js/2.487959f3.chunk.js": "/wellhealth/static/js/2.487959f3.chunk.js",
     "static/js/2.487959f3.chunk.js.map": "/wellhealth/static/js/2.487959f3.chunk.js.map",
     "index.html": "/wellhealth/index.html",
-    "static/css/main.60769b40.chunk.css.map": "/wellhealth/static/css/main.60769b40.chunk.css.map",
+    "static/css/main.a07be8f6.chunk.css.map": "/wellhealth/static/css/main.a07be8f6.chunk.css.map",
     "static/js/2.487959f3.chunk.js.LICENSE.txt": "/wellhealth/static/js/2.487959f3.chunk.js.LICENSE.txt",
     "static/media/logo.196abb82.png": "/wellhealth/static/media/logo.196abb82.png"
   },
   "entrypoints": [
     "static/js/runtime-main.79d577d5.js",
     "static/js/2.487959f3.chunk.js",
-    "static/css/main.60769b40.chunk.css",
-    "static/js/main.719d520c.chunk.js"
+    "static/css/main.a07be8f6.chunk.css",
+    "static/js/main.2bbd6fce.chunk.js"
   ]
 }
