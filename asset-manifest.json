@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/wellhealth/static/css/main.fe28457c.chunk.css",
-    "main.js": "/wellhealth/static/js/main.fa676ad6.chunk.js",
-    "main.js.map": "/wellhealth/static/js/main.fa676ad6.chunk.js.map",
+    "main.js": "/wellhealth/static/js/main.75c959b8.chunk.js",
+    "main.js.map": "/wellhealth/static/js/main.75c959b8.chunk.js.map",
     "runtime-main.js": "/wellhealth/static/js/runtime-main.79d577d5.js",
     "runtime-main.js.map": "/wellhealth/static/js/runtime-main.79d577d5.js.map",
-    "static/js/2.1365212f.chunk.js": "/wellhealth/static/js/2.1365212f.chunk.js",
-    "static/js/2.1365212f.chunk.js.map": "/wellhealth/static/js/2.1365212f.chunk.js.map",
+    "static/js/2.487959f3.chunk.js": "/wellhealth/static/js/2.487959f3.chunk.js",
+    "static/js/2.487959f3.chunk.js.map": "/wellhealth/static/js/2.487959f3.chunk.js.map",
     "index.html": "/wellhealth/index.html",
     "static/css/main.fe28457c.chunk.css.map": "/wellhealth/static/css/main.fe28457c.chunk.css.map",
-    "static/js/2.1365212f.chunk.js.LICENSE.txt": "/wellhealth/static/js/2.1365212f.chunk.js.LICENSE.txt",
+    "static/js/2.487959f3.chunk.js.LICENSE.txt": "/wellhealth/static/js/2.487959f3.chunk.js.LICENSE.txt",
     "static/media/logo.196abb82.png": "/wellhealth/static/media/logo.196abb82.png"
   },
   "entrypoints": [
     "static/js/runtime-main.79d577d5.js",
-    "static/js/2.1365212f.chunk.js",
+    "static/js/2.487959f3.chunk.js",
     "static/css/main.fe28457c.chunk.css",
-    "static/js/main.fa676ad6.chunk.js"
+    "static/js/main.75c959b8.chunk.js"
   ]
 }
